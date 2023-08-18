@@ -1,0 +1,69 @@
+body{
+
+}
+
+.container{
+
+	position: relative;
+	width: 100%;
+	min-height: 700px;
+}
+
+
+.box-center{
+
+position: absolute;
+top: 30%;
+left: 50%;
+transform: translate(-50%, -50%);
+width: 50%;
+
+}
+
+.tabla-datos{
+	border-width: 1px;
+	border-style: solid;
+}
+
+.tabla-datos tbody td{
+
+ 
+	border-width: 1px;
+	border-style: solid;
+
+}
+
+.tabla-datos thead th {
+
+    background-color: #797676;
+	border-width: 1px;
+	border-style: solid;
+
+}
+
+.txt {
+
+    width: 50%;
+
+}
+
+
+.lbl {
+
+   width: 20%;
+   display: block;
+  
+}
+
+.btn{
+
+width: 20%;
+background-color: royalblue;
+
+}
+
+form{
+
+	width: 100%;
+
+}
