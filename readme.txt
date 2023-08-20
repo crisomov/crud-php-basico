@@ -1,7 +1,7 @@
 #crisomov
 
 #Proyecto:
-Crud básico en php básico, solo código embebido en html,
+Crud básico en PHP, solo código embebido en html,
 la idea es ver correr el flujo y los cambios de estados de los registros.
 
 #Material:
